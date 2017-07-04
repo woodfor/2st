@@ -1,2 +1,6 @@
 WTH
-yes,i am kidding
+<<<<<<< HEAD
+are you kidding
+=======
+are you kidding 
+>>>>>>> new
